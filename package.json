@@ -1,0 +1,15 @@
+{
+  "name": "@quangrunin/nvc-tea",
+  "version": "1.0.1",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@quangrunin",
+  "repository": "https://github.com/vanvinhnc6/nvc-tea.git",
+  "license": "ISC",
+  "dependencies": {
+    "@harmansate/simple-sky": "^1.0.1",
+    "@tofake/tea-xyz-quest": "^1.0.0",
+    "lodash": "^4.17.21",
+    "sass-loader": "^14.1.1"
+  }
+}
